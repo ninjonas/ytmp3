@@ -1,0 +1,7 @@
+yt-dlp>=2023.0.0
+tqdm>=4.66.0
+mutagen>=1.46.0
+# This project requires FFmpeg to be installed on your system for audio conversion
+# On macOS, install with: brew install ffmpeg
+# On Ubuntu/Debian: sudo apt-get install ffmpeg
+# On Windows: Download from https://www.ffmpeg.org/download.html
